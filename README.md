@@ -1,5 +1,14 @@
-# 💫 About Me:
+d# 💫 About Me:
 I'm a Full Stack Software Developer with a passion for creating robust, scalable, and user-friendly applications. My journey in the world of software development has been a thrilling adventure, and I'm always excited to take on new challenges, learn new technologies, and contribute to innovative projects.
+<ol>
+  <li>
+    Add Your Email - git config --global user.email "email"
+  </li>
+  <li>
+    Add Your Username - git config --global user.name "username"
+  </li>
+</ol>
+
 
 
 ## 🌐 Socials:
